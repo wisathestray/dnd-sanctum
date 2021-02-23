@@ -34,7 +34,7 @@ Drugo (CE male human gladiator) is a huge, stupid, mean-spirited fighter. In bat
 </br>
 He was left for dead and later dragged to safety by clerics retreating to the cellars. He is embarrassed that he did not die in the battle and will not make that mistake twice.
 </br>
-There is no negotiating with Drugo. His demands are simple: surrender or fight. As a tactician, Drugo is wholly wanting. He is likely to overlook the simplest of ambush opportunities, and his only offensive tactic is a headlong frontal attack. Ogrnund believes he should oversee the defense of the island and resents Tarathiel's presence. He gladly leaves the elf in the lurch if the chance to do so arises.
+There is no negotiating with Drugo. His demands are simple: surrender or fight. As a tactician, Drugo is wholly wanting. He is likely to overlook the simplest of ambush opportunities, and his only offensive tactic is a headlong frontal attack. Drugo believes he should oversee the defense of the island and resents Tarathiel's presence. He gladly leaves the elf in the lurch if the chance to do so arises.
 </br>
 
 ## DISCIPLES
