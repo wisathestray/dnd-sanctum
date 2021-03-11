@@ -1,6 +1,21 @@
 # dnd-sanctum
-Store of ideas, snippets and brain droppings related to DnD
+- Store of ideas, snippets and brain droppings related to DnD
 
-## New section
+## Campaign Notes
 
-Testing to see if I can use the Git workflow like I expect.
+- Campaign summary
+- Session outlines
+
+## Characters
+
+- More detailed information about characters
+
+## DM Ideas
+
+- Brain droppings
+- Ideas for current or future campaign which aren't fleshed out yet
+
+## Items
+
+- New items
+- Item descriptions
