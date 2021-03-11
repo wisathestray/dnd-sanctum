@@ -1,4 +1,4 @@
-## Cursed items
+## Cursed items for the Baldur's Gate magic item shop
 
 Ideas for cursed items, especially for Baldur's Gate version of Needful Things
 
