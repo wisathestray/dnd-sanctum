@@ -1,4 +1,4 @@
-## Luschan, Duke of Gradsul (Duchess Maria of Gradsul)
+## Luschan VIII, Duke of Gradsul (Duchess Maria of Gradsul)
 
 Influence:  Elon Musk</br>
 
