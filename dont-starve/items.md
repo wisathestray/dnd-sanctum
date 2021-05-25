@@ -1,31 +1,27 @@
-### Log Suit
-AC: +4
-
-
+## Armor
 ### Grass Suit
 AC: +2
 
-
-### Spear
-Dmg: 15 (4d6+1)
-
-
-### Bow and Arrow
-Dmg: 10 (3d6)
-
-
-### Club
-Dmg: 10 (3d6)
-
-
-### Wand
-Dmg: 5 (1d6+2)
-Heal: 15 (4d6+1)
-
+### Log Suit
+AC: +4
 
 ### Backpack
 Increases your daily Survival Actions by 1
 
+## Weapons
+### Spear (melee, thrown)
+Dmg: 15 (4d6+1)
 
-### Axe, Shovel, Hoe
+### Bow and Arrow (ranged)
+Dmg: 10 (3d6)
+
+### Club (melee)
+Dmg: 10 (3d6)
+
+### Wand (ranged)
+*only usable by medic, starting item* </br>
+Dmg: 5 (1d6+2)
+Heal: 15 (4d6+1)
+
+### Axe, Shovel, Hoe (melee)
 Dmg: 5 (1d6+2) 
